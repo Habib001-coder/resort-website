@@ -1,0 +1,44 @@
+.portland{
+    text-align: center;
+    background-color: aqua;
+}
+
+#homepage{
+    float: right;
+}
+#landpage{
+    background-color: black;
+    background-repeat: no-repeat;
+}
+#room-1{
+    text-align: center;
+    padding: 40px;
+    margin: 5px;
+    border: 20px; 
+    height: 100px;
+    width: 400px; 
+}
+.platinum{
+    display: flex;
+    float: left;
+}
+#part-one{
+    text-align: center;
+    background-color: chartreuse;
+}
+#discription{
+    text-align: center;
+    padding: 40px;
+    margin: 5px;
+    border: 20px; 
+    height: 100px;
+    width: 400px; 
+}
+.executive{
+    display: flex;
+    float: left;  
+}
+#accomodation{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+}
