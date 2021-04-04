@@ -42,3 +42,25 @@
     background-image: url(./background.jpg);
     background-repeat: no-repeat;
 }
+.supirior{
+    display: flex;
+    float: left;    
+}
+#sup{
+    text-align: center;
+    padding: 40px;
+    margin: 5px;
+    border: 20px; 
+    height: 100px;
+    width: 400px; 
+
+}
+body{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+}
+ul{
+    text-align: left;
+    display: flex;
+    float: right;
+}
